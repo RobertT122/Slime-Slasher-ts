@@ -1,2 +1,2 @@
 # Slime-Slasher-ts
-Slime Slasher in typescript
+## Slime Slasher in typescript
